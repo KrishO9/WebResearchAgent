@@ -1,0 +1,9 @@
+openai>=1.10.0
+tavily-python>=0.3.0
+aiohttp>=3.9.0
+beautifulsoup4>=4.12.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0 # Added for easier settings management
+json_repair>=0.20.0
+# asyncio and logging are part of Python's standard library and don't need to be installed
