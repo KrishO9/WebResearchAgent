@@ -36,6 +36,8 @@ This project implements a multi-agent system designed to perform web research ba
 - **Report Generation**: Uses a powerful LLM via OpenRouter to create a structured, coherent report.
 - **Error Handling**: Manages issues like API errors, rate limits, scraping failures, and LLM response problems.
 
+![System Workflow](flow.png) 
+
 ## Technology Stack
 
 - **Python 3.9+** (with asyncio)
